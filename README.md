@@ -1,3 +1,31 @@
+intelligent-book-management-system/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── routers/
+│   │   ├── __init__.py
+│   │   ├── books.py
+│   │   └── reviews.py
+│   └── utils/
+│       ├── __init__.py
+│       └── llama3.py
+├── data/
+│   ├── sample_books.csv
+│   └── sample_reviews.csv
+└── tests/
+    ├── __init__.py
+    ├── test_books.py
+    └── test_reviews.py
+
+
+
+
+
+
 # Intelligent-Book-Management-System-
 An intelligent book management system, a locally running Llama3 generative AI model, and AWS cloud infrastructure. 
 Problem Statement:
