@@ -1,1 +1,8 @@
 
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+transformers
+scikit-learn
+pandas
